@@ -1,3 +1,6 @@
+Live Demo : https://awesome-ardinghelli-c029b5.netlify.app/index.html
+
+
 # title(){
 		
 		return this.options.title || this.options.name;
